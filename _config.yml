@@ -65,7 +65,7 @@ heading_anchors: true
 # Aux links for the upper right navigation
 aux_links:
   "IndicSwipe on GitHub":
-    - "//github.com/emilbiju/just-the-docs"
+    - "//github.com/emilbiju/indic-swipe"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
