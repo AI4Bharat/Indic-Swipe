@@ -4,11 +4,8 @@ IndicSwipe is aimed at developing a keyboard that supports gesture typing in Ind
 
 The models and datasets have been developed to cater to two closely related tasks:
 
-#### Indic-to-Indic Decoding
-To support users who prefer to type in the native Indic script (Devanagari, Bengali, etc.)
-
-#### English-to-Indic Decoding
-To support users who prefer to type using an English script keyboard but want the output in the native script.
+- **Indic-to-Indic Decoding:** To support users who prefer to type in the native Indic script (Devanagari, Bengali, etc.)
+- **English-to-Indic Decoding:** To support users who prefer to type using an English script keyboard but want the output in the native script.
 
 IndicSwipe demonstrates high decoding accuracies on both tasks varying from 70% to 95% across the 7 languages.
 
