@@ -13,7 +13,7 @@ To support users who prefer to type using an English script keyboard but want th
 IndicSwipe demonstrates high decoding accuracies on both tasks varying from 70% to 95% across the 7 languages.
 
 <p align="center">
-   <img src="assets/images/gesture_sample.jpg">
+   <img src="../gh-pages/assets/images/gesture_sample.jpg">
 </p>
 
 ## Key Contributions
