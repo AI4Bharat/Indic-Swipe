@@ -20,13 +20,13 @@ This dataset contains keyboard traces for 193,658 words across 7 Indic languages
 
 | Language | Size | Dataset (limited size) | Dataset (full size) | Simulation Code | 
 | :------- | :-------- | | :----- |
-| Hindi  | 32415 | [download](../../master/indic-to-indic-datasets/Hindi.xlsx)| [download](https://drive.google.com/u/0/uc?export=download&confirm=-6in&id=1LETSgyAgB6kom81xmx3Sfj0BS-wS3SWB) | 4.1.0 |
-| Tamil | 24094 | [download]( | [download](https://drive.google.com/u/0/uc?export=download&confirm=p-tn&id=1ey7E4gpgx9CBMcEbaKhuG7fVXH_qjOxi) | 4.1.0 |
-| Bangla | 15320 | [download]( | [download](https://drive.google.com/uc?export=download&id=1BSNv2YtsrLTSrhmjc69rZdzFlHupKdXs) | 4.1.0 |
-| Telugu | 28996 | [download]( | [download](https://drive.google.com/u/0/uc?export=download&confirm=S9xP&id=1oPS8NgdZJr_IXBP-HJeWnPnVzeRpzOPy) | 4.1.0 |
-| Kannada | 26551 | [download]( | [download](https://drive.google.com/u/0/uc?export=download&confirm=LKd-&id=1cLw3_9_Xlo9aelEguUk9R99izteNR_xG) | 4.1.0 |
-| Gujrati | 30024 | [download]( | [download](https://drive.google.com/u/0/uc?export=download&confirm=FIt3&id=1UXqCnSmVVuGDgWHHqBCHzpRzzu5bohQG) | 4.1.0 |
-| Malayalam | 36258 | [download]( | [download](https://drive.google.com/uc?export=download&id=11QeiHuSWwbr2m8x_Q8Iw6z61MUXr4KJr) | 4.1.0 |
+| Hindi  | 32415 | [download](https://github.com/emilbiju/indic-swipe/blob/master/indic-to-indic-datasets/Hindi.xlsx) | [download](https://drive.google.com/u/0/uc?export=download&confirm=-6in&id=1LETSgyAgB6kom81xmx3Sfj0BS-wS3SWB) | 4.1.0 |
+| Tamil | 24094 | [download](https://github.com/emilbiju/indic-swipe/blob/master/indic-to-indic-datasets/Tamil.xlsx) | [download](https://drive.google.com/u/0/uc?export=download&confirm=p-tn&id=1ey7E4gpgx9CBMcEbaKhuG7fVXH_qjOxi) | 4.1.0 |
+| Bangla | 15320 | [download](https://github.com/emilbiju/indic-swipe/blob/master/indic-to-indic-datasets/Bangla.xlsx) | [download](https://drive.google.com/uc?export=download&id=1BSNv2YtsrLTSrhmjc69rZdzFlHupKdXs) | 4.1.0 |
+| Telugu | 28996 | [download](https://github.com/emilbiju/indic-swipe/blob/master/indic-to-indic-datasets/Telugu.xlsx) | [download](https://drive.google.com/u/0/uc?export=download&confirm=S9xP&id=1oPS8NgdZJr_IXBP-HJeWnPnVzeRpzOPy) | 4.1.0 |
+| Kannada | 26551 | [download](https://github.com/emilbiju/indic-swipe/blob/master/indic-to-indic-datasets/Kannada.xlsx) | [download](https://drive.google.com/u/0/uc?export=download&confirm=LKd-&id=1cLw3_9_Xlo9aelEguUk9R99izteNR_xG) | 4.1.0 |
+| Gujrati | 30024 | [download](https://github.com/emilbiju/indic-swipe/blob/master/indic-to-indic-datasets/Gujarati.xlsx) | [download](https://drive.google.com/u/0/uc?export=download&confirm=FIt3&id=1UXqCnSmVVuGDgWHHqBCHzpRzzu5bohQG) | 4.1.0 |
+| Malayalam | 36258 | [download](https://github.com/emilbiju/indic-swipe/blob/master/indic-to-indic-datasets/Malayalam.xlsx) | [download](https://drive.google.com/uc?export=download&id=11QeiHuSWwbr2m8x_Q8Iw6z61MUXr4KJr) | 4.1.0 |
 
 ## English-to-Indic Dataset
 
