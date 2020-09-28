@@ -15,7 +15,7 @@ A detailed description of the model architecture can be found here which address
 [Transliteration Generation](https://emilbiju.github.io/just-the-docs/docs/Model%20Architecture/transliteration/){: .btn .btn-blue }
 [Transliteration Correction](https://emilbiju.github.io/just-the-docs/docs/Model%20Architecture/transliteration_correction/){: .btn .btn-green }
 
-# Implementation Details
+## Implementation Details
 
 ### English-to-Indic Decoding Task
 
