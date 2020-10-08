@@ -39,7 +39,7 @@ IndicSwipe demonstrates high decoding accuracies on both tasks varying from 70% 
 4. The accuracies of the proposed models vary from 70 to 89% for English-to-Indic decoding and 86-95% for Indic-to-Indic decoding across the 7 languages used for the study.
 
 ## Publication
-Our work on IndicSwipe has been accepted at the 28th International Conference on Compuational Linguistics ([COLING 2020)](https://coling2020.org)) as a conference paper titled "Joint Transformer/RNN Architecture for Gesture Typing in Indic Languages."
+Our work on IndicSwipe has been accepted at the 28th International Conference on Compuational Linguistics ([COLING 2020](https://coling2020.org)) as a conference paper titled "Joint Transformer/RNN Architecture for Gesture Typing in Indic Languages."
 
 ## People
 
