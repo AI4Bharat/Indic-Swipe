@@ -43,7 +43,7 @@ Our work on IndicSwipe has been accepted at the 28th International Conference on
 
 ## People
 
-This work has been developed by [Emil Biju](https://github.com/emilbiju), [Anirudh Sriram](https://github.com/anirudhs123), [Prof. Mitesh Khapra](https://www.cse.iitm.ac.in/~miteshk/) and [Prof. Pratyush Kumar](https://www.cse.iitm.ac.in/~pratyush/) from the Indian Institute of Technology, Madras. Ask us your questions at [emilbiju7@gmail.com](mailto:emilbiju7@gmail.com) or [anirudhsriram30799@gmail.com](mailto:anirudhsriram30799@gmail.com).
+This work has been developed by [Emil Biju](https://www.linkedin.com/in/emilbiju), [Anirudh Sriram](https://www.linkedin.com/in/anirudh-sriram-1b136318a/), [Prof. Mitesh Khapra](https://www.cse.iitm.ac.in/~miteshk/) and [Prof. Pratyush Kumar](https://www.cse.iitm.ac.in/~pratyush/) from the Indian Institute of Technology, Madras. Ask us your questions at [emilbiju7@gmail.com](mailto:emilbiju7@gmail.com) or [anirudhsriram30799@gmail.com](mailto:anirudhsriram30799@gmail.com).
 
 ## Further Work
 We plan to pursue further work on this front by developing an application that would allow live usage and testing of our models. We also plan on diversifying our dataset and models to support a wider range of Indic languages.
