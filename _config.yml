@@ -16,7 +16,7 @@
 title: IndicSwipe
 description: Datasets and model architectures for swipe typing in Indic languages.
 baseurl: "/indic-swipe" # the subpath of your site, e.g. /blog
-url: "https://iitmnlp.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ai4bharat.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"
@@ -65,7 +65,7 @@ heading_anchors: true
 # Aux links for the upper right navigation
 aux_links:
   "IndicSwipe on GitHub":
-    - "//github.com/iitmnlp/indic-swipe"
+    - "//github.com/ai4bharat/Indic-Swipe"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
@@ -122,5 +122,3 @@ compress_html:
   profile: false
   # ignore:
   #   envs: all
-
-theme: jekyll-theme-cayman
